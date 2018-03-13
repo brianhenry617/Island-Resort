@@ -20,7 +20,7 @@ h2 {
 }
 
 p{
-  color: purple;
+  color: Green;
   text-align: left;
   font-style: oblique;
   font-weight: bolder;
@@ -45,5 +45,5 @@ ul {
 }
 
 body {
-  background-color: lightblue;
+  background-color: purple;
 }
