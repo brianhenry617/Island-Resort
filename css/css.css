@@ -1,0 +1,49 @@
+h1 {
+  color: red;
+  text-align: center;
+  font-style: oblique;
+  font-weight: bolder;
+  font-family: cursive;
+  font size: serif;
+  line weight:cursive;
+}
+
+
+h2 {
+  color: grey;
+  text-align:left;
+  font-style: normal;
+  font-weight: lighter;
+  font-family: fantasy;
+  font size: monospace;
+  line weight: sans-serif;;
+}
+
+p{
+  color: purple;
+  text-align: left;
+  font-style: oblique;
+  font-weight: bolder;
+  font-family: cursive;
+  font size: serif;
+  line weight:cursive;
+}
+img {
+  height: 300px;
+  width: 50%;
+}
+ul {
+  color: orange;
+  text-align: left;
+  font-style: oblique;
+  font-weight: bolder;
+  font-family: cursive;
+  font size: serif;
+  line weight:cursive;
+  font-size: 20px;
+  line-height: 30px;
+}
+
+body {
+  background-color: lightblue;
+}
